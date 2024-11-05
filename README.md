@@ -1,1 +1,1 @@
-Projek DTS membuat Login dan Registrasi Page menggunakna Java
+Projek DTS membuat Login dan Registrasi page menggunakan Java
